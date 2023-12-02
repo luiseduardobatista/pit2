@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409951268829",
+    "project_id": "coffee-shop-x5s5lc",
+    "storage_bucket": "coffee-shop-x5s5lc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409951268829:android:a3da6339b582cc8106d034",
+        "android_client_info": {
+          "package_name": "br.com.faculdade.pit2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOL6fY2coqgZnS9DsMq1elveC7GoYlPmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
